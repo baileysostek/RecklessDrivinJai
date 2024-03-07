@@ -1,0 +1,5 @@
+.build
+.vscode
+*.pdb
+*.exe
+drivin

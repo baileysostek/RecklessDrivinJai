@@ -7,7 +7,7 @@
 #include "initexit.h"
 #include <math.h>
 
-#define kCreator 'RŒ2'
+#define kCreator 'Rï¿½ï¿½2'
 
 UInt32 gKey;
 int gRegistered=false;
